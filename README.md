@@ -53,3 +53,16 @@ This query is to exemplify using the union function for my data. For the sake of
 
 
 ## Data Results
+As a result of the data, we can conclude that increasing activity level has an impact on the amount of calories burned. It is more beneficial to exercise at higher intensities than to exercise at lower intensities. This has an impact on the amount of weight a person can lose as a caloric deficit has an impact on one's ability to lose weight. People who are sedentary burn fewer calories and this is expected as a user is at rest and not expending more energy than is necessary at rest.
+
+## Briefing and Presentation
+BellaBeat is able to market this product to its users with various fitness goals in mind as it tracks many important variables that can relate to any fitness goal. Personalized user data down to the minute is very useful for people who want to take an in-depth look at their health. Doctors and other medical professionals are able to look at someone's journey on a case-by-case basis to understand what factors are impacting their health. This would prove very useful for someone struggling with their health or to make the progress they are seeking. 
+
+BellaBeat can market its product to a wide population as most people today want to be more aware of their health and fitness. Most people would like to take an actionable step to improve their health, so this product will help to merge a user's wants and needs.
+
+## Future work
+Many factors play into one's fitness journey, so exploring other key details would result in a more detailed analysis that can be more individualized. Analysis for an individual would be very useful in athletic settings such as bodybuilding, powerlifting, professional sports, and even for the regular gym goer who wants to be more fit. It would be useful for doctors to look at the data and be able to make recommendations based on a patient's goal or needs. 
+
+Future data can be implemented such as caloric intake, fitness goals, mental health scores, and rest impact on fitness. All of these have a major impact on data meaning and interpretation. For our second user, their caloric intake may have shot up on the last few days of their journey, which is why their end weight was higher than their starting weight. Perhaps they had a bad mental health day, which also led them to an intake of more calories, or perhaps the amount of burned calories was too much and resulted in a poor mental state, which may have led to a yo-yo diet. We do not know each user's fitness goal, so maybe a user wants to gain weight in order to gain muscle. If this were the case, caloric intake needs to be higher than caloric output, so ensuring they maintain a surplus is important.
+
+
