@@ -24,32 +24,34 @@ The image below shows a negative trend for people who are sedentary and are more
 
 
 The second image shows a positive trend to being very active nd burning more calories.
-![alt text](https://githubusercontent.com/53309710/355142360-f4a3b4ba-2b28-4d85-897d-5b74eea2cefe.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjkwMzgsIm5iZiI6MTcyMjg2ODczOCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxNDIzNjAtZjRhM2I0YmEtMmIyOC00ZDg1LTg5N2QtNWI3NGVlYTJjZWZlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0Mzg1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmODY3NjJiMzhjNTA4NTkwZDJkYWI5MDdhMDc4NTFmNDgxNzJhODcwNzc1OTYzNmJlMzEyZWMzMzJiOTRlNTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CVmsIPdQBoIGC2pfWr5PVNJl2bsa6bffkitzpvLyUyU)
+<img width="715" height="254" alt="Very Active to calories burned correlation" src="https://github.com/user-attachments/assets/a4e1b345-ce29-4cc1-a72f-8b179f8a3f1b" />
+
 
 A question I analyzed more in-depth was about two users' weight journey from the data set. The users recorded their weights every day and I wanted to know if their activity had any relation to helping them achieve weight loss. Not only would it be beneficial to observe the trends these people had along the way, but also, if the calories burned helped them with their goal. One way doctors reccomend people to lose weight is to burn more calories, so I wanted to know if that helped these people lose weight. I examined the calories they burned to their weight.
 
 The timeline below shows the first user's calories-burned journey.
-![alt text](https://private-user-images.githubusercontent.com/53309710/355135514-a36144bc-4628-4b61-aba7-70b8aae88eab.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjgwODAsIm5iZiI6MTcyMjg2Nzc4MCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxMzU1MTQtYTM2MTQ0YmMtNDYyOC00YjYxLWFiYTctNzBiOGFhZTg4ZWFiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0MjMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMzNjk2ZDgzOWVhNTIwYTQzYmY1YzY5M2M1ZWM5N2ZmNTkyNjg1MmZhYmExYjQwZGIwYTY2YzU2M2E1ZjBhYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.h595u_KCSq8Yi8cNlsRkyov824I28115W-Gjc6uwuS0)
+<img width="1125" height="602" alt="First User Calories Burned Journey" src="https://github.com/user-attachments/assets/5686a796-0160-4aed-943f-13df25709e4e" />
+
 
 The chart below shows the first user's weight journey. It is interesting to note how the trend is negative, however, this user's starting weight is lower than her end weight.
-![alt text](https://private-user-images.githubusercontent.com/53309710/355135515-596118a0-94b2-4ac1-ad79-9fd99ad011f6.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjkwMzgsIm5iZiI6MTcyMjg2ODczOCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxMzU1MTUtNTk2MTE4YTAtOTRiMi00YWMxLWFkNzktOWZkOTlhZDAxMWY2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0Mzg1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiNjYzNjgwNzczYjFiNDRiYmRjZjk2MDc0OTE0NTA4YzVjNzZkZjhkNDFjYTM3Yzc0MTdiYmYzOGVhMmIzNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._z5J2SFI_ijsZqyQBN2Eo5nqJxM1_b4jZwqNJgzazVE)
+<img width="1125" height="602" alt="First User Calories Burned Journey" src="https://github.com/user-attachments/assets/b21861f4-5e68-41f3-b641-49335f3fb4d1" />
 
 ### SQL work done behind the scenes
 In my technical notebook, I document when I use SQL to clean and transform data. I used SQL at times because it made joining, filtering, and selecting data much easier than with Python. The legibility of SQL also makes it easier to follow. Below are some of the queries that ran when using SQL.
 
 This query shows I am selecting the Id, ActivityDay, while summing calories for each user and grouping the days together. In this dataset, there are multiple day entries for each user, so summing the calories to give me a one day total was important to generate a daily report.
 
-![alt text](https://private-user-images.githubusercontent.com/53309710/355135517-a0e1ab73-f3ff-4561-82ce-1eebca909e8e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjkwMzgsIm5iZiI6MTcyMjg2ODczOCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxMzU1MTctYTBlMWFiNzMtZjNmZi00NTYxLTgyY2UtMWVlYmNhOTA5ZThlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0Mzg1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTViYjlhNGI5MDY5YTkyZTRlNjY3YmQ2ZjMwMjViMmJkZGE3NWIyYzk4YzRlZGZlYmQ4YmQwMjJiODg5ZTU1MWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KdUqhssQTHNxUfmY-aXjL5owbD1vtpNdLn3GcWxOwhw)
+<img width="523" height="367" alt="Query_Grouping_Calories_Burned_Daily" src="https://github.com/user-attachments/assets/bae5e148-0ca5-413e-8efa-a61bd4ee2601" />
 
 
 Checking work for daily calories from the query ran above.  Calories were split into hourly burned rates, so I wanted to join them into a daily burned view by user. This query is checking my work for calories summed correctly.
 
-![alt text](https://private-user-images.githubusercontent.com/53309710/355135509-b4766e48-c451-43d3-9a0f-750d3daaf770.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjkwMzgsIm5iZiI6MTcyMjg2ODczOCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxMzU1MDktYjQ3NjZlNDgtYzQ1MS00M2QzLTlhMGYtNzUwZDNkYWFmNzcwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0Mzg1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5Yjk0ZDdmY2Q4OTJkNDQ5MTA0NGUyZDc0YThlNDAwNTcwMmU4NzZiZGY0NTFiMzJhY2U4ZWU0NWVmNzUxZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RJZiJqpZh60juDNnQmJSkx5aJsSN5yB-VntdSu0M-G4)
+<img width="523" height="336" alt="Checking_work_for_Daily_Calories_by User_1" src="https://github.com/user-attachments/assets/062fa2a8-8e00-4a48-81a6-232028bbeb3f" />
 
 
 This query is to exemplify using the union function for my data. For the sake of understanding what is in each table, the columns have been written out. All columns were written out, so using the "*" character would have saved time, however, for you the reader, it is best to know what is being unionized. 
 
-![alt text](https://private-user-images.githubusercontent.com/53309710/355135523-fb786a53-bd28-4fa0-82f6-63a2c235c724.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI4NjkwMzgsIm5iZiI6MTcyMjg2ODczOCwicGF0aCI6Ii81MzMwOTcxMC8zNTUxMzU1MjMtZmI3ODZhNTMtYmQyOC00ZmEwLTgyZjYtNjNhMmMyMzVjNzI0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA1VDE0Mzg1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRlYzlhMTk2OGUzNDMxNGQzYTA3YjFhM2YyMTM2ZDUxZDA1ODIyZjljNjBlODQzNDhhY2RjZTlkMDM5YmVhN2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._v9FXktxbnpLUz5JgsL9m-s2mYDHuqU_Gb2tsOfYIUk)
+<img width="1205" height="108" alt="SQL_Query_for_hourly_intensities" src="https://github.com/user-attachments/assets/acdbd533-f5da-4ad0-be5f-cee97acc22cd" />
 
 
 ## Data Results
